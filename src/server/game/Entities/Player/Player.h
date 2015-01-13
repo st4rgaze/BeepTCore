@@ -35,6 +35,7 @@
 #include <limits>
 #include <string>
 #include <vector>
+#include <streambuf>
 #include <boost/dynamic_bitset.hpp>
 
 struct CreatureTemplate;
