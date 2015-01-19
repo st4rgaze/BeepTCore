@@ -12,6 +12,7 @@
 
 set(scripts_STAT_SRCS
   ${scripts_STAT_SRCS}
+  Custom/Resetduel.cpp
 #  ${sources_Custom}
 )
 
